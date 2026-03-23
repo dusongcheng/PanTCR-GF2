@@ -1,5 +1,5 @@
 # Pan-TCR
-This repo is the official implementation of the paper titled “**Pansharpening for Thin-Cloud Contaminated Remote Sensing Images: A Unified Framework and Benchmark Dataset**”, named **Pan-TCR**.
+This is the official Pytorch implementation of ["Pansharpening for Thin-Cloud Contaminated Remote Sensing Images: A Unified Framework and Benchmark Dataset"](https://ojs.aaai.org/index.php/AAAI/article/view/37369) which has been accepted by **The AAAI Conference on Artificial Intelligence (AAAI 2026)**!
 
 ## Abstract
 
@@ -26,7 +26,7 @@ Pansharpening under thin cloudy conditions is a practically significant yet rare
 
 ## Evaluation on PanTCR-GF2：
 
-Download the CAVE dataset([Baidu Disk](https://pan.baidu.com/s/1bDctANFdxVF55IBYlsVOJQ?pwd=bb73), code: `bb73`).
+Download the PanTCR-GF2 dataset([Baidu Disk](https://pan.baidu.com/s/1bDctANFdxVF55IBYlsVOJQ?pwd=bb73), code: `bb73`).
 
 The process of synthesizing the dataset has been included in the released code, just run this commend:
 ```python
