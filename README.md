@@ -28,12 +28,12 @@ Pansharpening under thin cloudy conditions is a practically significant yet rare
 
 Download the PanTCR-GF2 dataset([Baidu Disk](https://pan.baidu.com/s/1bDctANFdxVF55IBYlsVOJQ?pwd=bb73), code: `bb73`).
 
-The process of synthesizing the dataset has been included in the released code, just run this commend:
+The process of synthesizing the dataset has been included in the released code, just run this command:
 ```python
 python ./train.py
 python ./test.py
 ```
-The results of several metrics (inference time, PSNR, SSIM, SAM, ERGAS), reconstruction results will be displayed.
+The results of several metrics (inference time, PSNR, SSIM, SAM, ERGAS), and reconstruction results will be displayed.
 
 ## Environment
 ```python
@@ -51,3 +51,5 @@ timm==1.0.9
 hdf5storage==0.19.5
 h5py==3.11.0
 ```
+## If you have any questions, please don't hesitate to contact us.
+V: 13484583426
